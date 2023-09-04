@@ -15,7 +15,7 @@
         <!-- 01 Клик для перехода к следующей истории -->
     <tr>
         <td>1</td>
-        <td>Клик для перехода к следующей истории</td>
+        <td>Переход к следующей истории</td>
         <td>Клик по правой части экрана для перехода к предыдущей истории</td>
         <td><a href="../../02_datalayer_settings/01_events/02_interactions_events/01_clickNextStory.md" target="_blank">01_clickNextStory.md</a></td>
         <td>
@@ -27,7 +27,7 @@
         <!-- 02 Клик для перехода к предыдущей истории -->
     <tr>
         <td>2</td>
-        <td>Клик для перехода к предыдущей истории</td>
+        <td>Переход к предыдущей истории</td>
         <td>Клик по левой части экрана для перехода к предыдущей истории</td>
         <td><a href="../../02_datalayer_settings/01_events/02_interactions_events/02_clickPrevStory.md" target="_blank">02_clickPrevStory.md</a></td>
         <td>
