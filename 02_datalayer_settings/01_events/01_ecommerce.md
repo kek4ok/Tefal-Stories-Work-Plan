@@ -45,7 +45,31 @@
         <td>
             <li>Главная</li> 
         </td>
-        <td>Виджет Frisbuy stories</td>
+        <td>Сайт</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/home_story.png" alt="home_story.png" width="400"/> Главная</td>
+    </tr>    
+    <!-- 04 Показ истории -->
+    <tr>
+        <td>4</td>
+        <td>Показ истории</td>
+        <td>Просмотр истории</td>
+        <td><a href="../../02_datalayer_settings/01_events/01_eccomerce_events/04_showStory.md" target="_blank">04_showStory.md</a></td>
+        <td>
+            <li>История</li> 
+        </td>
+        <td>Виджет Frisbuy stories</td>
+        <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> История</td>
+    </tr>    
+    <!-- 05 Клик по ссылке-->
+    <tr>
+        <td>5</td>
+        <td>Клик по истории</td>
+        <td>Кликнул по истории на главной странице</td>
+        <td><a href="../../02_datalayer_settings/01_events/01_eccomerce_events/05_clickUrl.md" target="_blank">05_clickUrl.md</a></td>
+        <td>
+            <li>История</li> 
+        </td>
+        <td>Виджет Frisbuy stories</td>
+        <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> История</td>
     </tr>    
 </table>  
