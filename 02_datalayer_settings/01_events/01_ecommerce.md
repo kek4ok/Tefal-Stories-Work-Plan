@@ -17,10 +17,11 @@
         <td rowspan=15>1</td>
         <td rowspan=15>Показ товаров</td>
         <td rowspan=15>Появление миниатюры карточек товаров в видимой части экрана</td>
-        <td rowspan=15><a href="../../02_datalayer_settings/01_events/01_eccomerce_events/01_showImpressionsProduct.md" target="_blank">01_showImpressionsProduct.md</a></td>
+        <td rowspan=15><a href="../../02_datalayer_settings/01_events/01_eccomerce_events/01_showImpressionsProduct.md" target="_blank">01_showImpressionsProduct.md<a></td>
         <td rowspan=5>
             <li>Истории</li>
         </td>
+    </tr>
 <!-- -->
     <tr>
         <td>
