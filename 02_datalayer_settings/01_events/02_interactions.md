@@ -19,22 +19,10 @@
         <td>Открытие формы авторизации</td>
         <td><a href="../../02_datalayer_settings/01_events/02_interactions_events/20_openLoginForm.md" target="_blank">20_openLoginForm.md</a></td>
         <td>
-            <li>Главная</li> 
-            <li>Landing Page</li>
-            <li>Страница с акциями</li>
-            <li>Каталога товарных групп</li>
-            <li>Каталога товаров</li>
-            <li>Серия товаров</li>
-            <li>Карточка товара</li>
-            <li>Избранное</li>
-            <li>Сравнение</li>
-            <li>История покупок</li>
-            <li>Страница история покупок</li>
-            <li>Корзина</li>
-            <li>Информационные</li>
+            <li>История</li> 
         </td>
-        <td>CMS ФИМ: сайт</td>
-        <td> ----------</td>
+        <td>Виджет Frisbuy stories</td>
+        <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
     </tr>      
         <!-- 20 Открытие формы авторизации -->
     <tr>
