@@ -12,40 +12,28 @@
         <th class="col5">Список страниц</th>
         <th class="col6">Место на странице </th>
         <th class="col7">Пример</th> 
-        <!-- 20 Открытие формы авторизации -->
+        <!-- 01 Клик для перехода к следующей истории -->
     <tr>
-        <td>20</td>
-        <td>Открытие формы авторизации</td>
-        <td>Открытие формы авторизации</td>
-        <td><a href="../../02_datalayer_settings/01_events/02_interactions_events/20_openLoginForm.md" target="_blank">20_openLoginForm.md</a></td>
+        <td>1</td>
+        <td>Клик для перехода к следующей истории</td>
+        <td>Клик для перехода к следующей истории</td>
+        <td><a href="../../02_datalayer_settings/01_events/02_interactions_events/01_clickNextStory.md" target="_blank">01_clickNextStory.md</a></td>
         <td>
             <li>История</li> 
         </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
     </tr>      
-        <!-- 20 Открытие формы авторизации -->
+        <!-- 01 Клик для перехода к предыдущей истории -->
     <tr>
-        <td>20</td>
-        <td>Открытие формы авторизации</td>
-        <td>Открытие формы авторизации</td>
-        <td><a href="../../02_datalayer_settings/01_events/02_interactions_events/20_openLoginForm.md" target="_blank">20_openLoginForm.md</a></td>
+        <td>1</td>
+        <td>Клик для перехода к предыдущей истории</td>
+        <td>Клик для перехода к предыдущей истории</td>
+        <td><a href="../../02_datalayer_settings/01_events/02_interactions_events/01_clickPrevStory.md" target="_blank">01_clickPrevStory.md</a></td>
         <td>
-            <li>Главная</li> 
-            <li>Landing Page</li>
-            <li>Страница с акциями</li>
-            <li>Каталога товарных групп</li>
-            <li>Каталога товаров</li>
-            <li>Серия товаров</li>
-            <li>Карточка товара</li>
-            <li>Избранное</li>
-            <li>Сравнение</li>
-            <li>История покупок</li>
-            <li>Страница история покупок</li>
-            <li>Корзина</li>
-            <li>Информационные</li>
+            <li>История</li> 
         </td>
-        <td>CMS ФИМ: сайт</td>
-        <td> ----------</td>
+        <td>Виджет Frisbuy stories</td>
+        <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
     </tr>      
 </table>  
