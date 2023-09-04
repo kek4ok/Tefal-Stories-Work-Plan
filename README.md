@@ -1,4 +1,4 @@
-# **Техническое задание на внедрение Google Tag Manager и Google Analytics 360 для WMF**
+# **Техническое задание на внедрение Google Tag Manager и Google Analytics 360 для историй на сейте Tefal**
 ## **Содержание:** 
 
 ### **Общая информация (для веб-аналитика и разработчика)**
@@ -38,7 +38,7 @@
 4. Перенести существующие коды и проверить их работу
 
 ### **Чек-лист проверки событий**
-[Чек-лист](https://groupeseb.sharepoint.com/:f:/r/sites/GSVBIReporting/Documents%20partages/9%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%D0%AB/202108%20eBus%20End-to-End/Public%20Documents/D2C/Events%20Tag%20Plan?csf=1&web=1&e=93veoZ) проверки событий:
+[Чек-лист](https://docs.google.com/spreadsheets/d/1BqcdZCeuPjZTE0PALzi64Hl1YA1AKelsG5PGsbYC7Cw/edit?usp=sharing) проверки событий:
 
 
 ## **Общие настройки dataLayer (для разработчика)**
@@ -50,6 +50,5 @@
 ### **Справочники** 
 - [Типы страниц](/02_datalayer_settings/04_catalogs/01_page_type.md)
 - [Типы списков товаров](/02_datalayer_settings/04_catalogs/02_item_list_type.md)
-- [Типы баннеров](/02_datalayer_settings/04_catalogs/03_banner_list.md)
 - [Типы сервисов/виджетов на сайте](/02_datalayer_settings/04_catalogs/05_placement.md)
 ***

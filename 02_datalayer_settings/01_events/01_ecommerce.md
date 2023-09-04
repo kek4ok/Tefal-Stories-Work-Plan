@@ -64,7 +64,7 @@
     <tr>
         <td>5</td>
         <td>Клик по истории</td>
-        <td>Кликнул по истории на главной странице</td>
+        <td>Кликнул по ссылке в истории</td>
         <td><a href="../../02_datalayer_settings/01_events/01_eccomerce_events/05_clickUrl.md" target="_blank">05_clickUrl.md</a></td>
         <td>
             <li>История</li> 
