@@ -11,7 +11,6 @@
         <th class="col5">Список страниц</th>
         <th class="col6">Место на странице </th>
         <th class="col7">Пример</th> 
-    </tr>
     <!-- 1 Показ товаров -->
 <!-- -->
     <tr>
@@ -24,7 +23,6 @@
         </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
-    </tr>
     <!-- 2 Клик по карточке товара -->
 <!-- --> 
     <tr>
@@ -37,7 +35,6 @@
         </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
-    </tr>
         <!-- 3 Клик по истории-->
     <tr>
         <td rowspan=15>3</td>
@@ -49,7 +46,6 @@
         </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/home_story.png" alt="home_story.png" width="400"/> Истории</td>
-    </tr>
 <!-- -->
        <!-- 4 Показ по истории-->
         <tr>
@@ -62,7 +58,6 @@
         </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/home_story.png" alt="home_story.png" width="400"/> Истории</td>
-    </tr>
     <!-- 5 Показ по истории-->
         <tr>
         <td rowspan=15>3</td>
@@ -74,6 +69,5 @@
         </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
-    </tr>
 </table>  
 
