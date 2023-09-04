@@ -39,7 +39,7 @@
         <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
     </tr>
         <!-- 3 Клик по истории-->
-        <tr>
+    <tr>
         <td rowspan=15>3</td>
         <td rowspan=15>Клик по истории</td>
         <td rowspan=15>Кликнул по истории</td>
@@ -47,14 +47,10 @@
         <td rowspan=5>
             <li>Главная</li>
         </td>
-<!-- -->
-    <tr>
-        <td>
-            <li>Главная</li>
-        </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/home_story.png" alt="home_story.png" width="400"/> Истории</td>
     </tr>
+<!-- -->
        <!-- 4 Показ по истории-->
         <tr>
         <td rowspan=15>3</td>
@@ -62,11 +58,6 @@
         <td rowspan=15>Появление истории на экране</td>
         <td rowspan=15><a href="../../02_datalayer_settings/01_events/01_eccomerce_events/03_showStory.md" target="_blank">03_showStory.md</a></td>
         <td rowspan=5>
-            <li>Главная</li>
-        </td>
-<!-- -->
-    <tr>
-        <td>
             <li>Главная</li>
         </td>
         <td>Виджет Frisbuy stories</td>
@@ -79,11 +70,6 @@
         <td rowspan=15>Кликнул по ссылке в истории</td>
         <td rowspan=15><a href="../../02_datalayer_settings/01_events/01_eccomerce_events/03_showStory.md" target="_blank">03_showStory.md</a></td>
         <td rowspan=5>
-            <li>История</li>
-        </td>
-<!-- -->
-    <tr>
-        <td>
             <li>История</li>
         </td>
         <td>Виджет Frisbuy stories</td>
