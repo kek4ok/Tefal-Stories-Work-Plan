@@ -1,0 +1,24 @@
+[Вернуться на главную](/README.md)
+
+
+# **Типы страниц**
+| № | Описание                                                            | DataLayer для GA 360 |page_type              | section   | Пример                                                                                               |
+|:--| :---------------------                                              | :------------------- |:-----------------     |:----------|:---------------------------------------------------------------------------------------------------- |
+| 1 | Главная страница                                                    | home                 | homepage              | homepage | https://shop.wmfrussia.com                                                                           |
+| 2 | Страница с акциями                                                  | promoPage            |                       |           | нет                                                                                                  |
+| 3 | Страница Promo Landing Page                                         | landingPage          |                       |           | https://shop.wmfrussia.com/profi_plus_perfection_grill                                               |
+| 4 | Страница каталога товарных групп                                    | catalogProductGroup  |category.lists         | category  | https://shop.wmfrussia.com/catalog/posuda                                                            |
+| 5 | Страница каталога товаров                                           | catalog              |products.lists         | products  | https://shop.wmfrussia.com/catalog/posuda/skovorody                                                  |
+| 6 | Страница серий товаров                                              | seriaPage            |products.lists         | products  | нет                                                                                                  |
+| 7 | Страница карточки товара                                            | productPage          |products.details       | products  | https://shop.wmfrussia.com/catalog/posuda/skovorody/vysokaya-skovoroda-wmf-profi-resist-28-sm        |
+| 8 | Корзина                                                             | cart                 |checkout.basket        | checkout  | https://shop.wmfrussia.com/cart                                                                      |
+| 9 | Страница Спасибо за заказ                                           | purchase             |checkout.сonfirmation  | checkout  | https://shop.wmfrussia.com/order/complete                                                            |  
+| 10| Страница результатов поиска                                         | searchResults        |search.products        | search    | https://shop.wmfrussia.com/order/complete?digiSearch=true&term=грили&params=%7Cfilter%3Dcategories%3A133%7Csort%3DDEFAULT|
+| 11| Страница сравнения товаров                                          | compare              |comparator.products    | comparator| https://shop.wmfrussia.com/compare/share/?products=333                                               |
+| 12| Страница избранное                                                  | wishList             |wishlist.products      | wishlist  | https://shop.wmfrussia.com/favorites                                                                 |
+| 13| Страница сброса пароля                                              | passRecovery         |                       |           | https://shop.wmfrussia.com/pass_recovery                                                             |
+| 14| Страница профиля пользователя (личный кабинет)                      | profile              |                       |           | https://shop.wmfrussia.com/profile                                                                   |
+| 15| Страница информационные (доставка, способы оплаты и т.д.)           | other                |                       |           | https://shop.wmfrussia.com/pages/obmen-i-vozvrat                                                     |
+| 16| Страница история покупок                                            | orderHistory         |                       |           | https://shop.wmfrussia.com/shopping-history                                                          |
+| 17| Pop Up окно на странице Корзина после клика на кнопку Оформить заказ| cartPopUp            |                       |           |                                                                                                      |
+***
