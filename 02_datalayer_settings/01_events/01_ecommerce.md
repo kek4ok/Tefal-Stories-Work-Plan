@@ -35,12 +35,6 @@
         <td rowspan=5>
             <li>Истории</li>
         </td>
-    </tr>
-<!-- -->
-    <tr>
-        <td>
-            <li>Истории</li>
-        </td>
         <td>Виджет Frisbuy stories</td>
         <td><img src="../../images/02_datalayer_settings/03_pages/story.png" alt="story.png" width="400"/> Истории</td>
     </tr>
